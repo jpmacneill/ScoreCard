@@ -1,0 +1,26 @@
+<resources>
+
+    <color name="background_color">#EEEEEE</color>
+    <color name="header_background_color">#008000</color>
+    <color name="font_color">#333333</color>
+    <color name="header_font_color">#800000</color>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:windowBackground">@color/background_color</item>-->
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="android:textColor">@color/font_color</item>
+        <item name="android:editTextColor">@color/font_color</item>
+
+    </style>
+    <style name="button_text">
+        <item name="android:textColor">@color/font_color</item>
+    </style>
+
+    <style name="header">
+        <item name="android:windowBackground">@color/header_background_color</item>
+        <item name="android:colorBackground">@color/header_background_color</item>
+        <item name="android:textColor">@color/header_font_color</item>
+    </style>
+
+</resources>

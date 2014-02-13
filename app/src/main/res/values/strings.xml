@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Score Card</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings for activity_login -->
+    <string name="login_title">Login</string>
+    <string name="login_username">Username:</string>
+    <string name="login_password">Password:</string>
+    <string name="login_button">Login</string>
+    <string name="login_register">Register</string>
+
+    <!-- Default login test values -->
+    <string name="user_test">admin</string>
+    <string name="pass_test">password</string>
+
+</resources>
